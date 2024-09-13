@@ -5,7 +5,7 @@ from slack_sdk import WebClient
 import win32com.client
 import requests
  
-token = "xoxb-3579403711030-3609799725392-IXa9ynsZA8WUpgDVOGacaUZa"
+token = "token"
 app = Flask(__name__)
 client = WebClient(token)
 
